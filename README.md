@@ -74,7 +74,7 @@
 
 Komoran을 사용해서 토큰화 불용어 제거, 빈도수 계산 후 정렬
 
-![](https://i.imgur.com/UBLRchh.png)
+![](https://i.imgur.com/uijj0XA.png)
 
 <br>
 
