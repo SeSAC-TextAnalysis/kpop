@@ -446,8 +446,7 @@ CFG Scale 낮고 Denoising strength 높으면 아예 다른 그림이 나옵니�
 - **SadTalker, D-ID, HeyGen으로 입모양 움직이기**
     
     [KakaoTalk_20231024_105123390.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/718522e0-c17e-4411-a280-e3c020bf1b7c/26a5a516-c151-485c-b441-064a22f4b02f/KakaoTalk_20231024_105123390.mp4)
-
-<br>
+    
 
 # 프로젝트 느낀점
 
@@ -519,8 +518,4 @@ CFG Scale 낮고 Denoising strength 높으면 아예 다른 그림이 나옵니�
 ## PPT 및 결과 영상
 
 [![결과 영상](https://img.youtube.com/vi/74rXq-tHxPM/0.jpg)](https://www.youtube.com/watch?v=74rXq-tHxPM)
-
-<br>
-
-[![결과 영상2](https://img.youtube.com/vi/PIEeaQHbDnM/0.jpg)](https://www.youtube.com/watch?v=PIEeaQHbDnM)
 
