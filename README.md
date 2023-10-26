@@ -525,7 +525,7 @@ CFG Scale 낮고 Denoising strength 높으면 아예 다른 그림이 나옵니�
 
 Behind 영상:
 
-[![결과 영상](https://www.youtube.com/embed/I1mI1lQWyvY?si=Oe4hekU7qqLSnB9)
+[![결과 영상](https://img.youtube.com/vi/I1mI1lQWyvY/0.jpg)](https://www.youtube.com/watch?v=I1mI1lQWyvY)
 
 
 <br>
