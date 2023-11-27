@@ -534,3 +534,10 @@ Behind 영상:
 
 [![결과 영상](https://img.youtube.com/vi/PIEeaQHbDnM/0.jpg)](https://www.youtube.com/watch?v=PIEeaQHbDnM)
 
+<br>
+
+-------------------------
+# 프로젝트 추가 (2023.11.15)
+공식 음악발매를 위한 작업 진행
+Suno AI 모델을 사용해 ot, 개관, 홍보음악 제작
+<br>
