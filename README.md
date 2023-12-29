@@ -540,6 +540,6 @@ Behind 영상:
 # 프로젝트 추가 (2023.11.15)
 공식 음악발매를 위한 작업 진행
 Suno AI 모델을 사용해 ot, 개관, 홍보음악 제작
-[![공식 유튜브 영상](https://youtube.com/playlist?list=PLq7cA3PWVRmSH_epMohpsovggtWc3ADaB&si=bDQZMVxtu3C26U7S)
+[![결과 영상](https://i.imgur.com/a8hw9w3.png)](https://youtube.com/playlist?list=PLq7cA3PWVRmSH_epMohpsovggtWc3ADaB&si=bDQZMVxtu3C26U7S)
 
 <br>
